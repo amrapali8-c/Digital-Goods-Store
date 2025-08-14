@@ -1,0 +1,16 @@
+[package]
+name = "Digital-Goods-Store"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0xf86a09cde45c34f56106d6e4262a8db691faf3f59bea7041933cf37f5af140bb"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]

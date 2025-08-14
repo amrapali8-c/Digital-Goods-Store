@@ -1,0 +1,7 @@
+Aptos CLI is now set up for account 0xf86a09cde45c34f56106d6e4262a8db691faf3f59bea7041933cf37f5af140bb as profile default!
+---
+
+{
+  "Result": "Success"
+}
+PS C:\Users\System05\Desktop\Helloworld_aptos> 
